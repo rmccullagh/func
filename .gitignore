@@ -1,0 +1,8 @@
+*.[ao]
+*.so
+main
+*.exe
+*~
+variant-*.tar.gz
+.*.swp
+
